@@ -1,0 +1,13 @@
+chrom	position	methylation	coverage	sample	haplotype	annotation_id
+chr1	100	0.90	10	S01	H1	geneA_intron
+chr1	120	0.40	2	S01	H1	geneA_intron
+chr1	140	0.85	9	S01	H1	geneA_intron
+chr1	1000	0.82	8	S01	H1	geneB_promoter
+chr1	1020	0.55	2	S01	H1	geneB_promoter
+chr1	1040	0.45	3	S01	H1	geneB_promoter
+chr1	1060	0.20	9	S01	H1	geneB_promoter
+chr1	3000	0.75	7	S01	H1	geneC_intron
+chr1	3600	0.50	2	S01	H1	geneC_intron
+chr1	3620	0.35	1	S01	H1	geneC_intron
+chr1	3640	0.30	2	S01	H1	geneC_intron
+chr1	4300	0.15	8	S01	H1	geneC_intron
